@@ -2,6 +2,13 @@
 
 Pro-bono project made for crash's personal M4 mod.
 
+Some features:
+- Custom RPM Gauge
+- Several engine temps
+- Lap metrics
+
+https://github.com/plus-and-other-arithmetic-operations/M4-Aim-Dash/assets/88043761/09d3f806-697d-4545-b2fa-64ce9467a193
+
 ## Setup
 
 ```ini
