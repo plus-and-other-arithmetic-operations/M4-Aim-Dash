@@ -1,5 +1,9 @@
 # M4-Aim-Dash
 
+Pro-bono project made for crash's personal M4 mod.
+
+## Setup
+
 ```ini
 [SCRIPTABLE_DISPLAY_...]
 ACTIVE = $" read('csp/version', 0) >= 1709 "
